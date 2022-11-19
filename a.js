@@ -1,0 +1,1 @@
+var alert = "Welcome to the Web one page but it's not ready yet"
